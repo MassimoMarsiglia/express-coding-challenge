@@ -1,0 +1,127 @@
+[
+    {
+        "_id": "64f35f1be1b807d66c78274e",
+        "rating": 8,
+        "gender": "male"
+      },
+      {
+        "_id": "64f5ec161777cc7cef3e0db8",
+        "rating": 10,
+        "gender": "female"
+      },
+      {
+        "_id": "64f5ecb61777cc7cef3e0e08",
+        "rating": 2,
+        "gender": "female"
+      },
+      {
+        "_id": "64f5ecc01777cc7cef3e0e1a",
+        "rating": 9,
+        "gender": "female"
+      },
+      {
+        "_id": "64f6fa8a20148efaf8ebf429",
+        "rating": 10,
+        "gender": "female"
+      },
+      {
+        "_id": "64f6fb1220148efaf8ebf4ed",
+        "rating": 10,
+        "gender": "male"
+      },
+      {
+        "_id": "64f6ff025e5b744d0818e599",
+        "rating": 6,
+        "gender": "diverse"
+      },
+      {
+        "_id": "64f700095e5b744d0818e5df",
+        "rating": 10,
+        "gender": "diverse"
+      },
+      {
+        "_id": "64f7006c5e5b744d0818e62c",
+        "rating": 10,
+        "gender": "diverse"
+      },
+      {
+        "_id": "64f700835e5b744d0818e674",
+        "rating": 9,
+        "gender": "female"
+      },
+      {
+        "_id": "64f700935e5b744d0818e6bc",
+        "rating": 5,
+        "gender": "female"
+      },
+      {
+        "_id": "64f7052f00464d4e85f1146f",
+        "rating": 4,
+        "gender": "female"
+      },
+      {
+        "_id": "64f71d2b00464d4e85f1247b",
+        "rating": 10,
+        "gender": "female"
+      },
+      {
+        "_id": "64f71d6800464d4e85f1250a",
+        "rating": 10,
+        "gender": "female"
+      },
+      {
+        "_id": "64f71d9400464d4e85f12557",
+        "rating": 10,
+        "gender": "female"
+      },
+      {
+        "_id": "64f8213567415d1b7ab47c33",
+        "rating": 9,
+        "gender": "female"
+      },
+      {
+        "_id": "64f8213967415d1b7ab47c3e",
+        "rating": 3,
+        "gender": "female"
+      },
+      {
+        "_id": "64f836ff67415d1b7ab48648",
+        "rating": 10,
+        "gender": "female"
+      },
+      {
+        "_id": "64f8372767415d1b7ab486b8",
+        "rating": 10,
+        "gender": "male"
+      },
+      {
+        "_id": "64f8375667415d1b7ab48728",
+        "rating": 10,
+        "gender": "diverse"
+      },
+      {
+        "_id": "64f8378f67415d1b7ab487fa",
+        "rating": 10,
+        "gender": "female"
+      },
+      {
+        "_id": "64f837de67415d1b7ab4889a",
+        "rating": 10,
+        "gender": "diverse"
+      },
+      {
+        "_id": "64f8381567415d1b7ab4893c",
+        "rating": 1,
+        "gender": "diverse"
+      },
+      {
+        "_id": "64f8385667415d1b7ab489dc",
+        "rating": 10,
+        "gender": "male"
+      },
+      {
+        "_id": "64f8389067415d1b7ab48a7e",
+        "rating": 1,
+        "gender": "diverse"
+      }
+]
