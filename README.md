@@ -1,6 +1,6 @@
 # Express.js coding challenge Project
 
-This project is an Express.js backend built with TypeScript.
+This project is a simple Express.js backend built with TypeScript, that parses data from a json file and calculates an average score from it, based off of some specific specifications.
 
 ### 1. Clone the Repository
 
